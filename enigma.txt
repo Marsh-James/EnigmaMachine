@@ -1,0 +1,196 @@
+==============================================================================
+The list of outputs produced by my program - James Marsh:
+==============================================================================
+Please note all tests are commented out in the main method. Uncomment for testing.
+
+OUTPUTS FOR SPECIFIED TESTS:
+================================================
+Test One: BADGER
+
+Test Two: SNAKE
+		
+Test Three: THEQUICKBROWNFOXJUMPEDOVERTHELAZYDOG
+================================================
+				
+				
+OUTPUTS FOR SPECIFIED CHALLENGES:
+=============================================================================================================================================
+Challenge One (Note this answer includes all incoherent strings as well as the correct string, the Bombe could only look for a correct answer
+	and would require a human to choose the most sensible solution):
+				
+HUMAN SPECIFIED ANSWER:				
+Found: DAISYDAISYGIVEMEYOURANSWERDO
+Plug end one: D & plug end two: T
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II		
+								
+				
+ALL COMPUTED ANSWERS CONTAINING KEYWORD:
+Found: TSISYTASSYGIVEMFYOURANSWERTO
+Plug end one: D & plug end two: B
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVEMEYOUMANSWERTO
+Plug end one: D & plug end two: C
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVEMEYOURANSWERTO
+Plug end one: D & plug end two: D
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYDIVEMEYOURANSWERTO
+Plug end one: D & plug end two: G
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVEMEYOURANSWERTO
+Plug end one: D & plug end two: H
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TADSYTADSYGDVEMEYOURANSWERTS
+Plug end one: D & plug end two: I
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVEMEYOURANSWERTO
+Plug end one: D & plug end two: K
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVEMEYOTRANSWERTO
+Plug end one: D & plug end two: L
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVEDEYOURANSWERTO
+Plug end one: D & plug end two: M
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVESEYDURANSWERTD
+Plug end one: D & plug end two: O
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: DAISYDAISYGIVEMEYOURANSWERDO
+Plug end one: D & plug end two: T
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVNMEYODRANSWERTO
+Plug end one: D & plug end two: U
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYIAISYGBDEMEYOURANSWERTO
+Plug end one: D & plug end two: V
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TAISYTAISYGIVEMESOURANSWERTO
+Plug end one: D & plug end two: X
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+Found: TATSYTAISYGIVEMEYOURANSWERTO
+Plug end one: D & plug end two: Z
+Plug end one: S & plug end two: A
+
+Rotor position: 8 & Rotor Type: IV
+Rotor position: 4 & Rotor Type: III
+Rotor position: 21 & Rotor Type: II
+
+					
+			
+Challenge Two:
+
+Found: WELLALWAYSBETOGETHERHOWEVERFARITSEEMSWELLALWAYSBETOGETHERTOGETHERINELECTRICDREAMS
+Plug end one: H & plug end two: L
+Plug end one: G & plug end two: P
+
+Rotor position: 3 & Rotor Type: V
+Rotor position: 9 & Rotor Type: III
+Rotor position: 15 & Rotor Type: II
+
+
+
+Challenge Three:
+
+Found: WELLALWAYSBETOGETHERHOWEVERFARITSEEMSWELLALWAYSBETOGETHERTOGETHERINELECTRICDREAMS
+Plug end one: H & plug end two: L
+Plug end one: G & plug end two: P
+
+Rotor position: 3 & Rotor Type: V
+Rotor position: 9 & Rotor Type: III
+Rotor position: 15 & Rotor Type: II
+=============================================================================================================================================
+
+EXTENSIONS INSTRUCTIONS
+=============================================================================================================================================
+The tasks I completed were:
+	- Example extension one (extend your machine to allow a user to type a message a key at a time and have a
+								translation of the key appear in the command line.)
+								
+	- Example extension two (You could add a command line interface you your machine to allow the user to specify the plugs in
+								the machine and the type and initial positions of the rotors.) In addition to this I also added extensive
+								error checking and validation as well as implementing the extension one inside extension two so users can
+								key by key encode using their defined enigma machine.
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+For both extensions you may wish follow the on screen prompts to navigate the solution.
+
+@@ INFORMATION THAT YOU ARE NOT PROMPTED WITH @@
+NOTE: THE POSSIABLE VALID INPUTS FOR ROTOR INCLUDE = "I", "II", "III", "IV", "V" (not case sensitive)!
+NOTE: THE POSSIABLE VALID INPUTS FOR REFLECTOR INCLUDE = "REFLECTORI", "REFLECTORII" (not case sensitive)!
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+=============================================================================================================================================
+			
